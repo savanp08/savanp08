@@ -21,6 +21,7 @@ function Savan(): ML_Engineer {
   <a href="https://portfolio.monokenos.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
+  &nbsp
   <a href="https://www.linkedin.com/in/savanpoduturi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
