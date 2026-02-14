@@ -37,7 +37,7 @@ I anchor every model in rigorous Data Analysis. My workflow starts with SQL and 
 
 I deliver the final product. I build deployment wrappers, production ETL pipelines with Kafka, and React dashboards that bring model outputs directly to users and stakeholders. From first analysis to shipped interface, I own the path from prediction to product value.
 
-### 🛠️ Technical Arsenal
+### 🛠️ Skills
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
